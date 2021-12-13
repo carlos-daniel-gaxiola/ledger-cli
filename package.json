@@ -1,0 +1,22 @@
+{
+  "name": "ledger-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1045.0",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0",
+    "ledger-cli": "^0.2.0",
+    "n-readlines": "^1.0.1",
+    "node-ledger": "^0.2.0",
+    "spawn-args": "^0.2.0",
+    "sprintf-js": "^1.1.2"
+  }
+}
